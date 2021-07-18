@@ -1,1 +1,1 @@
-Refer to the Project Milestone 3 write-up on Canvas
+When the system starts, the traffic manager should start first and keep listening. The roads andthe manager shall subscribe to the same topics from individual cars. The only thing differentfrom Milestone 2 is the presence of a traffic manager that will publish messages to additionaltopic(s), which will be subscribed by the cars as well.
